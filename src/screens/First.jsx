@@ -18,7 +18,7 @@ function First() {
         <div className='form bg-light px-3 py-3 rounded animate__animated animate__slideInRight'>
             <div>
                 <div className='h4 fw-bold'>Let's get started</div>
-                <div>We'll need some of your details to get started</div>
+                <div>We'll need some of your details</div>
             </div>
             <form onSubmit={e=>handleForm(e)}>
                 <input className="form-control py-2 mt-3" value={name} onChange={e=>setName(e.target.value)} type="text" placeholder="Full name" required />
