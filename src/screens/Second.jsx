@@ -15,7 +15,7 @@ function Second() {
     <div className="row">
       <div className="col-lg-4">&nbsp;</div>
       <div className="col-lg-4 py-5">
-        <div className='mt-5 form bg-light px-3 py-3 rounded animate__animated animate__slideInRight'>
+        <div className='mt-5 bg-light px-3 py-3 rounded animate__animated animate__slideInRight'>
           <div>
                 <div className='h4 fw-bold'>Almost There!</div>
                 <div>Few more details and you'lll be good to go</div>
@@ -31,7 +31,7 @@ function Second() {
       <div className="col-lg-4">&nbsp;</div>
     </div>
     </div>
-    
+
   )
 }
 

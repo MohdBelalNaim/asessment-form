@@ -19,7 +19,7 @@ function First() {
         <div className="row">
           <div className="col-lg-4">&nbsp;</div>
           <div className="col-lg-4 py-5">
-            <div className='mt-5 form bg-light px-3 py-3 rounded animate__animated animate__slideInRight'>
+            <div className='mt-5 bg-light px-3 py-3 rounded animate__animated animate__slideInRight'>
               <div>
                   <div className='h4 fw-bold'>Let's get started</div>
                   <div>We'll need some of your details</div>
